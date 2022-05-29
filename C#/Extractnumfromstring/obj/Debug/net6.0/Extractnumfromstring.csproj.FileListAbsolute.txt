@@ -1,0 +1,15 @@
+C:\Users\Lemocakes\Desktop\Coding\Random Shiz\C#\Extractnumfromstring\bin\Debug\net6.0\Extractnumfromstring.exe
+C:\Users\Lemocakes\Desktop\Coding\Random Shiz\C#\Extractnumfromstring\bin\Debug\net6.0\Extractnumfromstring.deps.json
+C:\Users\Lemocakes\Desktop\Coding\Random Shiz\C#\Extractnumfromstring\bin\Debug\net6.0\Extractnumfromstring.runtimeconfig.json
+C:\Users\Lemocakes\Desktop\Coding\Random Shiz\C#\Extractnumfromstring\bin\Debug\net6.0\Extractnumfromstring.dll
+C:\Users\Lemocakes\Desktop\Coding\Random Shiz\C#\Extractnumfromstring\bin\Debug\net6.0\Extractnumfromstring.pdb
+C:\Users\Lemocakes\Desktop\Coding\Random Shiz\C#\Extractnumfromstring\obj\Debug\net6.0\Extractnumfromstring.csproj.AssemblyReference.cache
+C:\Users\Lemocakes\Desktop\Coding\Random Shiz\C#\Extractnumfromstring\obj\Debug\net6.0\Extractnumfromstring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lemocakes\Desktop\Coding\Random Shiz\C#\Extractnumfromstring\obj\Debug\net6.0\Extractnumfromstring.AssemblyInfoInputs.cache
+C:\Users\Lemocakes\Desktop\Coding\Random Shiz\C#\Extractnumfromstring\obj\Debug\net6.0\Extractnumfromstring.AssemblyInfo.cs
+C:\Users\Lemocakes\Desktop\Coding\Random Shiz\C#\Extractnumfromstring\obj\Debug\net6.0\Extractnumfromstring.csproj.CoreCompileInputs.cache
+C:\Users\Lemocakes\Desktop\Coding\Random Shiz\C#\Extractnumfromstring\obj\Debug\net6.0\Extractnumfromstring.dll
+C:\Users\Lemocakes\Desktop\Coding\Random Shiz\C#\Extractnumfromstring\obj\Debug\net6.0\refint\Extractnumfromstring.dll
+C:\Users\Lemocakes\Desktop\Coding\Random Shiz\C#\Extractnumfromstring\obj\Debug\net6.0\Extractnumfromstring.pdb
+C:\Users\Lemocakes\Desktop\Coding\Random Shiz\C#\Extractnumfromstring\obj\Debug\net6.0\Extractnumfromstring.genruntimeconfig.cache
+C:\Users\Lemocakes\Desktop\Coding\Random Shiz\C#\Extractnumfromstring\obj\Debug\net6.0\ref\Extractnumfromstring.dll
